@@ -99,7 +99,7 @@ footer:
       url: "/bookship-blog/categories/"
     - label: "Tags"
       icon: "fas fa-fw fa-tags"
-      url: "bookship-blog/tags"
+      url: "/bookship-blog/tags"
 
 defaults:
   # _posts
