@@ -13,6 +13,7 @@ With in-person meetings on hiatus and the rise of everything virtual, we are int
 
 Preliminary design of Meet the Authors page
 
+
 #### How it works:
 
 - Bookship's Browse feature will highlight authors who are available and their works.
