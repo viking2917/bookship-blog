@@ -96,10 +96,10 @@ footer:
       url: "https://instagram.com/thehawaiiproject"
     - label: "Categories"
       icon: "fas fa-fw fa-list"
-      url: "/categories"
+      url: "/bookship-blog/categories/"
     - label: "Tags"
       icon: "fas fa-fw fa-tags"
-      url: "/tags"
+      url: "bookship-blog/tags"
 
 defaults:
   # _posts
