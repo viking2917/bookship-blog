@@ -23,11 +23,11 @@ I wrote a bit about the region and it’s history on my personal blog. Crazy stu
 
 If you want to read more about Chaco and this “lost” empire, there’s no finer place to start than Stephen Lekson’s book **The Chaco Meridian**. Lekson is the complete opposite of the dry academic — his books and papers are replete with Monty Python jokes, horrible puns and the like, and he’s quite controversial in his field, and politely merciless to his detractors. You’ll enjoy it.
 
-{% include card.html link="http://www.viking2917.com/its-right-under-your-nose/" %}
+{% include card.html link="https://www.thehawaiiproject.com/book/The-Chaco-Meridian-One-Thousand-Years-of-Political-and-Religious-Power-in-the-Ancient-Southwest--by--Stephen-H.-Lekson--176285" %}
 
 And for exploring the territory and getting a sense of the land and how it influences the history of the Anasazi, Craig Child’s **House of Rain** is magic.
 
-{% include card.html link="http://www.viking2917.com/its-right-under-your-nose/" %}
+{% include card.html link="https://www.thehawaiiproject.com/book/House-of-Rain-Tracking-a-Vanished-Civilization-Across-the-American-Southwest--by--Craig-Childs--141622" %}
 
 Tomorrow, we hit Santa Fe. George R.R. Martin territory!
 
