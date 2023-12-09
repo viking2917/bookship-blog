@@ -9,7 +9,7 @@ Bookship is a social reading app - essentially, a virtual book club app. Thousan
 
 With in-person meetings on hiatus and the rise of everything virtual, we are introducing a **Meet the Author!** program to highlight authors who are available to meet (virtually) with Bookship reading groups.
 
-![]({{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}/assets/images/Screen-Shot-2020-10-29-at-1.44.03-PM.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Screen-Shot-2020-10-29-at-1.44.03-PM.png)
 
 Preliminary design of Meet the Authors page
 
