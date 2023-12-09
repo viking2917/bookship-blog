@@ -81,7 +81,7 @@ author:
 #      url: "https://github.com/"
     - label: "Contact"
       icon: "fas fa-fw fa-address-card"
-      url: "/contact"
+      url: "contact"
 
 footer:
   links:
