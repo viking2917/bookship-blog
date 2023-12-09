@@ -12,7 +12,7 @@ tags:
 coverImage: "reading2.png"
 ---
 
-![](/assets/images/reading2.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/reading2.png)
 
 Studies have shown that literacy and reading are key predictors to life success [\[1\]\[2\]](https://psycnet.apa.org/buy/2011-00167-001). But students are awash in digital distractions - YouTube, Snapchat, Instagram, and the endless noise of the internet. How can we drive reading passion and engagement in competition with that?
 
@@ -22,7 +22,7 @@ Bookship is a social reading app for sharing your reading experiences while you 
 
 Bookship also contains tens of thousands of classic books you can read for free right inside the app - so you can chat about today's bestsellers if you want, or delve deep into classic books without having to buy them.
 
-<table class="wp-block-table has-fixed-layout is-style-regular"><tbody><tr><td><img src="/assets/images/2_iPhoneXs_Chat_framed.png"></td><td><img src="/assets/images/7_iPhoneX_Reader_Comment_framed.png"></td></tr></tbody></table>
+<table class="wp-block-table has-fixed-layout is-style-regular"><tbody><tr><td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/2_iPhoneXs_Chat_framed.png"></td><td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/7_iPhoneX_Reader_Comment_framed.png"></td></tr></tbody></table>
 
 The Bookship app is free, so you and your students or colleagues can connect and share thoughts for free. The free Bookship product gives you:
 

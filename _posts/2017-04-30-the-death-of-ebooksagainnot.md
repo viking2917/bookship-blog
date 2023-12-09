@@ -13,7 +13,7 @@ tags:
 coverImage: "b9d12-1enh4jpjxglpsl2goe_-m9g.jpeg"
 ---
 
-![](/assets/images/b9d12-1enh4jpjxglpsl2goe_-m9g-300x150.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/b9d12-1enh4jpjxglpsl2goe_-m9g-300x150.jpeg)
 
 It’s the myth that just won’t die.
 

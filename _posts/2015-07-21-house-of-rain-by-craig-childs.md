@@ -11,7 +11,7 @@ tags:
 coverImage: "26c2c-19e72kb69ckhb2l8-fpmrmg.jpeg"
 ---
 
-![](/assets/images/af2d5-14qqxaukezjeqxd98zm8okq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/af2d5-14qqxaukezjeqxd98zm8okq.jpeg)
 
 Not long ago, I returned from a fantastic trip to the Southwest with old friends. We hiked and explored many of the key ruins of the Anasazi (or Ancient Puebloans, as is the currently accepted term) — Mesa Verde, Hovenweep and Chimney Rock, one of the northernmost outposts of the Chacoan empire. You can read more about our trip [here](http://www.viking2917.com/its-right-under-your-nose/).
 
@@ -19,13 +19,13 @@ Inspired by our trip and on the recommendation of my friend Thomas, I went after
 
 * * *
 
-![](/assets/images/69ce4-1nt_8qtutfy5ijbmpja2gta.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/69ce4-1nt_8qtutfy5ijbmpja2gta.jpeg)
 
 Awhile back there was a management school of thought called “Management by Walking Around”. Childs is from the “Archaeology by Walking Around” school. His (and others’) theory is that the Anasazi were an inherently nomadic people, in spite of the magnificent cliff dwellings they built. And his further assertion is that you can only really understand them by following them through the terrain. If you’ve ever been in the southwest, you know it’s a bleak, harsh, byzantine, but ultimately stunningly beautiful land, filled with mountains, rivers and a maze-like set of canyons littering the landscape. House of Rain is Child’s travelogue as he explores the vast landscape of the Southwest, mostly on foot and often at real personal danger. He starts at Chaco Canyon, the epicenter of the Chaco culture, then moves north to Colorado, east to Utah, South to Arizona, and eventually into Mexico. Along the way we’re treated to equal parts nature travelogue and deeply scholarly archaeology.
 
 Childs is a modern day Indiana Jones — one moment he’s swimming a flash flood in Chaco Canyon, the next exploring the evolution of pottery patterns over time in a museum. One of the more recent discoveries is that the Chaco empire built roads in the desert running fifty miles or more in a straight line, connecting settlements with both roads as well as mountain-top signal fires straight out of a scene from the Lord of the Rings movie. Childs walks these roads and explores the canyons, and the beauty and desolation of the Southwest comes to light.
 
-![](/assets/images/26c2c-19e72kb69ckhb2l8-fpmrmg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/26c2c-19e72kb69ckhb2l8-fpmrmg.jpeg)
 
 Pottery at the Anasazi Heritage Center, Utah
 

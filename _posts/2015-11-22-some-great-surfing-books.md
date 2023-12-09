@@ -11,7 +11,7 @@ tags:
 coverImage: "8783c-1tel2jpiqcxtvsttz7fuqdw.jpeg"
 ---
 
-![](/assets/images/8783c-1tel2jpiqcxtvsttz7fuqdw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/8783c-1tel2jpiqcxtvsttz7fuqdw.jpeg)
 
 While I’m not a surfer, I’ve always had a fascination with the sport. The mystical side of being in the ocean, the raw physicality of the sport, and the counter-culture and sub-culture of people who surf.
 

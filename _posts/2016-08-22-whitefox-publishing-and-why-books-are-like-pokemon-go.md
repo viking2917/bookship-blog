@@ -14,7 +14,7 @@ coverImage: "24ab0-1polm8d4gjxt25catyv5biw.jpeg"
 
 As part of our ongoing series of interviews with authors and folks from the publishing word, we had a chance to catch up with John Bond, the CEO of whitefox Publishing, he was kind enough to answer some questions for us. And draw a few interesting parallels between books and Pokemon Go!
 
-![](/assets/images/24ab0-1polm8d4gjxt25catyv5biw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/24ab0-1polm8d4gjxt25catyv5biw.jpeg)
 
 John has worked in and around publishing for 25 years. He was Marketing Director at Penguin before joining the Main Board of HarperCollins UK where he ran Group Sales and Marketing, eventually becoming MD and Publisher of the Press Books Division including the award winning 4th Estate imprint. He left in 2011 and set up whitefox, the largest curated network of freelance publishing specialists in the UK, working with writers, publishers and brands.
 

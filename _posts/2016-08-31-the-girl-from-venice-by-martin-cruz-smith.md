@@ -21,7 +21,7 @@ Martin Cruz Smith has a history of writing highly intelligent characters into in
 
 In _The Girl from Venice_, he steps outside the world of smart detectives to bring us Cenzo, an ordinary fisherman from Venice who drags a dead (or wait, is she?) Giulia from the lagoon. It’s WWII and the Nazis are hard at work trying to find Giulia for reasons unknown. The ominous threat of the Nazi invasion hangs over our heads, as Cenzo and Giulia circle each other warily.
 
-![](/assets/images/2291e-1fjcfhudw0occnbpptenoqa.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2291e-1fjcfhudw0occnbpptenoqa.jpeg)
 
 Smith waxes lyrical about the subject of fishing regularly, but with impressive detail.
 
@@ -35,7 +35,7 @@ Smith waxes lyrical about the subject of fishing regularly, but with impressive 
 
 But it’s WWII and Cenzo and Giulia are soon separated.
 
-![](/assets/images/e3a08-1lz69txsendgofgl0xbp8eg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/e3a08-1lz69txsendgofgl0xbp8eg.jpeg)
 
 Moving from Venice to Salo on Lake Garda to the Italian Alps to Milan, and featuring a cast of movie producers, resistance fighters, fisherman and barmen, The Girl from Venice is cinematic and enjoyable. It’s a self-described romance, but sometimes I think the romance is for the fishing of Venice; the fishing scenes sometimes seem more lovingly described than the romantic scenes!
 

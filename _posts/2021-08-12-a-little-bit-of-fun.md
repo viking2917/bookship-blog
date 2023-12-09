@@ -15,4 +15,4 @@ You can install it here: [Book Roulette](https://chrome.google.com/webstore/deta
 
 Give Book Roulette a spin! (haha!).
 
-![](/assets/images/bookroulette920.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bookroulette920.png)

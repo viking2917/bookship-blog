@@ -7,7 +7,7 @@ categories:
 coverImage: "IMG_20190318_135503-1.jpg"
 ---
 
-![](/assets/images/IMG_20190318_135503-1-1024x792.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_20190318_135503-1-1024x792.jpg)
 
 I’ve recently gotten involved in the Indigenous Innovation community here in Hawaii. What does Indigenous Innovation mean, you ask? Fair question: it’s an evolving discussion in the community, but it’s centered on sustainable innovation in the context of the local community. Dr. Kiana Frank, a Molecular Biologist with a penchant for [teaching science through dance](https://www.instagram.com/labhuiofrank/?hl=en), said something that has really stuck with me.
 
@@ -21,7 +21,7 @@ To begin, [Elena Farden](https://elementalexcelerator.com/team/elena-farden/) ga
 
 [Purple Mai’a](https://purplemaia.org) is a great non-profit I’ve gotten involved with. They have two main activities. They teach computer science skills to Native Hawaiian and low-income students, and they run the [Purple Prize](https://purpleprize.com), an innovation competition that provides cash rewards to projects that are forces for sustainable innovations rooted in Hawaii. Today’s workshop is a Product Design session providing assistance to groups competing for this year’s Purple Prize. I’m ostensibly here to mentor, but in fact I will end up taking away a number of key insights for my own work on [Bookship](https://www.bookshipapp.com), my social reading app.
 
-![](/assets/images/1*RQ7lEgSowT8e5bPwSdA7lA.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1*RQ7lEgSowT8e5bPwSdA7lA.jpeg)
 
 Our first exercise is to get us comfortable with the person sitting next to us. That means pairing up, sitting knee-to-knee and drawing a picture of each other, in 30 seconds, on a yellow post-it. Next to me is George, a University of Hawaii student and innovator, and he draws the picture you saw above (apparently I am Vulcan 😉). This is a consistent theme through these meetings, the emphasis on people and creating real connections.
 
@@ -29,7 +29,7 @@ You might be familiar with the phrase, “_It’s not an event, it’s a process
 
 Each group is roughly organized into interest groups and given a topic to brainstorm (mine is education and the future of work). Scott gives us our second task — “take a walk outside, observe nature and the campus (we’re on the University of Hawaii campus), and see what inspiration you can draw. Be back in 15 minutes”.
 
-![](/assets/images/1*KMpHkCD28IUl-gKZzfuRQw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1*KMpHkCD28IUl-gKZzfuRQw.jpeg)
 
 My group is three older men, and three college students; the age difference provides some interesting differences of perspective. One of the students remarks on the balance between freedom and control and the need to create systems that accommodate both. For myself, the interplay between the organic shapes of nature and the rectilinear geometry of the concrete buildings is an interesting contrast. We’re talking about what a beautiful day it is and how peaceful it feels. I say, “_your environment determines your frame of mind_”. George, one of the students, replies, “_Winston Churchill said ‘We shape our buildings and afterwards our buildings shape us_’”. I’m left feeling more than a little impressed to have Churchill quoted to me off-the-cuff.
 
@@ -43,7 +43,7 @@ Another thing that’s different about this meeting — and others I’ve be
 
 My group is tackling a meaty topic — “How might we improve education to tackle the Future of Work”. Scott has been with IDEO and we’re following the [IDEO Design Thinking](https://designthinking.ideo.com/) framework to brainstorm, which emphasizes creating a lot of ideas without judging them, at first. We end up with a lot of interesting ideas and again I find the contrast between the approaches of the younger and older generations striking and energizing. I find that Hawaiian culture has a much stronger embrace of inter-generational relationships and I think it is rewarding for everyone. And everyone hugs a lot, even strangers, which takes some getting used to for me. :). Of course we really aren’t taking action on our brainstorming topic, we’re just using to train ourselves, but a number of the proposals trigger related thoughts for me about my current work.
 
-![](/assets/images/1*9hkKoc1QGIUOiU5LT_7rMg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1*9hkKoc1QGIUOiU5LT_7rMg.jpeg)
 
 There’s a rooster crowing outside the room we’re in.
 

@@ -13,7 +13,7 @@ tags:
 coverImage: "greeks-300x200.jpeg"
 ---
 
-![](/assets/images/greeks-300x200.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/greeks-300x200.jpeg)
 
 The most successful organizations believe they are on a mission. Part of something larger than themselves. Successful leaders are always looking for ways to create that belief.
 
@@ -29,4 +29,4 @@ Picking the book is the fun part. Pick one that’s timely for your organization
 
 Work book clubs have their own challenges when compared to normal book clubs. People aren’t always in the same location, can’t always make the meetings. Give them a way to participate, and find a place where observations can be shared and recorded outside the meetings. That might be on your corporate intranet or a private Facebook group. Or consider [Bookship](https://www.bookshipapp.com), our social reading app that is purpose-built for sharing your reading experiences in a private, mobile-first, easy-to-use chat style interface (https://www.bookshipapp.com).
 
-![](/assets/images/bookshiplogo_card-300x157.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bookshiplogo_card-300x157.png)

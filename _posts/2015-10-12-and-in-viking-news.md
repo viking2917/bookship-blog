@@ -10,7 +10,7 @@ tags:
 coverImage: "121e9-1cqreeohvxfwnzhkkc7xspq.jpeg"
 ---
 
-![](/assets/images/121e9-1cqreeohvxfwnzhkkc7xspq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/121e9-1cqreeohvxfwnzhkkc7xspq.jpeg)
 
 Did you know that Bernard Cornwell’s wonderful Saxon Tales have been made into a series by the BBC? The first season is based on The Last Kingdom, and premiered Saturday night.
 

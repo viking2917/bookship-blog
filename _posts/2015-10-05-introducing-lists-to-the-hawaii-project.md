@@ -13,7 +13,7 @@ coverImage: "ce8ab-1ojwfikbcwaay70g0bydahw.png"
 
 Everybody loves lists, right?
 
-![](/assets/images/ce8ab-1ojwfikbcwaay70g0bydahw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ce8ab-1ojwfikbcwaay70g0bydahw.png)
 
 Lists are so much fun! Heck Buzzfeed pretty much made a whole company out of just making lists!
 

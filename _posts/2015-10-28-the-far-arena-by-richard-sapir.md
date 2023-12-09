@@ -11,7 +11,7 @@ tags:
 coverImage: "42311-1y2xxhbxnv-abvryveqjw1a.jpeg"
 ---
 
-![](/assets/images/42311-1y2xxhbxnv-abvryveqjw1a.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/42311-1y2xxhbxnv-abvryveqjw1a.jpeg)
 
 One part Gladiator, one part Jurassic Park. Eugeni was a Roman Gladiator (in fact, the best) under the emperor Domitian. Until he fell from favor after failing to kill a friend during a gladiatorial contest. The Praetorian guard was ordered to take him to the North Sea and kill him, but succeeded only in causing him to be frozen, and awakened two millenia later by cryogenic techniques. He’s discovered by Lew McCardle, Ph.D. texan hunting for oil. To keep the discovery secret, Lew enlists the aid of Semyon, a Russian cryonics specialist, and Sister Olav, a non who speaks fluent latin.
 

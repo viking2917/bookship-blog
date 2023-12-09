@@ -21,7 +21,7 @@ Book clubs are one way to create this experience. As fun as they can be, they ge
 
 Today we’re introducing _Readings_. A Reading is a group of people reading a book together. It might be something informal, just you and a friend deciding to read a book together. Or something more organized like a book club. It can be a shared digital experience, with people you know but live somewhere else. Or someone you don’t even know! Kind of like Book Penpals. All you need is their email address (and someday we hope to remove that restriction).
 
-![](/assets/images/1fafd-1vpvfdz-becvumkn6vz61na.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1fafd-1vpvfdz-becvumkn6vz61na.png)
 
 With Readings, you can invite a group of people to read together. You can update your status, and everyone gets notified (“Hey I’m on page 100!”). Your status updates are private to the group of invitees. Or, you can engage in more substantive discussions right on the book page (note: in the first version, those discussions (not status updates) are public — again, a restriction we hope to remove in future).
 

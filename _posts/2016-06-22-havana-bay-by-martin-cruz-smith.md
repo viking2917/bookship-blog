@@ -11,7 +11,7 @@ tags:
 coverImage: "22ef1-1trbwhbygjll-crxif-rovq.jpeg"
 ---
 
-![](/assets/images/22ef1-1trbwhbygjll-crxif-rovq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/22ef1-1trbwhbygjll-crxif-rovq.jpeg)
 
 Havana at night
 

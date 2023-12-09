@@ -9,7 +9,7 @@ categories:
 coverImage: "SplitIcons16_9.jpg"
 ---
 
-![](/assets/images/SplitIcons16_9-1024x576.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/SplitIcons16_9-1024x576.jpg)
 
 We are so excited to announce our partnership with the Tall Poppies Writers group, and their 10,000-strong Facebook discussion group [Bloom](http://areyouinbloom.com)!
 

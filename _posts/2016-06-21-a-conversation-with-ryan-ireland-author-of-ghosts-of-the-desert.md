@@ -11,7 +11,7 @@ tags:
 coverImage: "b02c4-1oebpetbbm35uclo9i7uy7g.jpeg"
 ---
 
-![](/assets/images/f85fa-1jgsrs3jyedsxol-chydgga.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/f85fa-1jgsrs3jyedsxol-chydgga.jpeg)
 
 Ryan Ireland lives in Ohio, but his imagination seems to live in the mythical Old West. His first book, [Beyond the Horizon](https://www.amazon.com/Beyond-Horizon-Ryan-Ireland/dp/1780747748/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1466470928&sr=1-4&keywords=beyond+the+horizon&&linkCode=sl1&tag=codexmap-20&linkId=52b21ca2bcef5ece9ce1d4a368b40fa0), turned the Western on it’s head. The Guardian called it “a complicated double helix of a tale…that plays havoc with time and space”. One of the main characters has no name, and is simply The Stranger, in what seems a nod to Clint Eastwood’s various mystery men. The LA Review of Books called it a “gothic western”, capturing the genre-bending nature of his work.
 
@@ -31,7 +31,7 @@ Yes. there’s so many things out there, those of us who are authors new to the 
 
 _I hope you will take this as a compliment, but Ghosts of the Desert doesn’t map neatly to any genre I can think of — neither thriller nor horror nor literary fiction, but with strong elements of all of those. Who were you aiming for? How do you think about your readers?_
 
-![](/assets/images/1536c-14k-x3qutaxzxobnu7yt-jw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1536c-14k-x3qutaxzxobnu7yt-jw.jpeg)
 
 The funny part of both of the novels, Beyond the Horizon and Ghosts of the Desert, I really thought they’d never get published so I was never worried about audience or readership. My day job is as a publicist for the Greene County Public Library — I’m always thinking about audience, but when it came to my own work, “eh, forget it” (laughs). The joke’s on me, now we’ve had two books where people have said similar things. Having Beyond the Horizon be called an anti-western was cool, I was purposefully subverting the western. Ghosts of the Desert isn’t a western, it just happens to be set in the west. More of a psycho-sexual thriller, where I’d classify it, and I have some uneasiness about that classification. I’m just an obstinate personality, my knee jerk reaction is to work against conventions. It’s a great thing for a writer during the writing, but not in the marketing.
 
@@ -43,7 +43,7 @@ _Ghosts is dedicated to “memories of Frisco (Utah)”. Paint us a picture of F
 
 A Frisco is ghost town in Utah. My sister lived in Salt Lake City. I visited, we packed up the car, went down to Beaver county. It’s very desolate there. The closest town was Beaver — it’s tiny — a few hundred people. Then you go another 45 minutes, Frisco is 45 minutes from everything. Just static on the radio. It was before iPhones were a thing — we printed maps. We were not in contact with anything. You get there and there’s a plaque by the side of the road — it says “only shifting sands and memories are left”.
 
-![](/assets/images/b02c4-1oebpetbbm35uclo9i7uy7g.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/b02c4-1oebpetbbm35uclo9i7uy7g.jpeg)
 
 Beehive Kilns at Frisco
 

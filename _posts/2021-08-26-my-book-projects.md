@@ -11,13 +11,13 @@ No secret to anyone that knows me, that I love books.
 
 What might be a secret are the number of books-related projects I've made over the years. I thought it would be fun to collect them all.
 
-![](/assets/images/bookroulette1400-1024x410.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bookroulette1400-1024x410.png)
 
 Book Roulette
 
 My most recent project, Book Roulette shows you an interesting new book each time you open a new tab in Chrome (or Brave!). It's a Chrome extension. [Get it here](https://chrome.google.com/webstore/detail/book-roulette-by-bookship/nmomlgnkllppccohkeemlenohnakehoc). And you can read more about it [here](https://blog.bookshipapp.com/2021/08/12/a-little-bit-of-fun/):
 
-![](/assets/images/14_Cafe_iPhoneXs_framed-509x1024.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/14_Cafe_iPhoneXs_framed-509x1024.png)
 
 * * *
 
@@ -29,7 +29,7 @@ If you're reading this blog, you surely know about Bookship already. Bookship is
 
 * * *
 
-![](/assets/images/The-Hawaii-Project-Home-Page-1024x668.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/The-Hawaii-Project-Home-Page-1024x668.png)
 
 The Hawaii Project
 
@@ -39,7 +39,7 @@ Try it out, [here](https://www.thehawaiiproject.com).
 
 * * *
 
-![](/assets/images/Alexa.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Alexa.png)
 
 What Should I Read Next?
 
@@ -47,7 +47,7 @@ Using the recommendations engine from The Hawaii Project, I built an Alexa skill
 
 * * *
 
-![](/assets/images/screen_1280-1024x640.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/screen_1280-1024x640.jpg)
 
 BookTrap
 

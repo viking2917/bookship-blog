@@ -15,7 +15,7 @@ Calendars in action: [https://www.youtube.com/watch?v=j14YTbFfgrI](https://www.
 
 * * *
 
-![](/assets/images/unnamed-503x1024.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/unnamed-503x1024.png)
 
 This Month's Tip: Finishing a book
 
@@ -25,19 +25,19 @@ If you are tired of seeing a Reading show up in your list of readings, or gettin
 
 OK on to this month's popular books!
 
-![](/assets/images/unnamed.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/unnamed.jpg)
 
 [The Woman in the Window](https://www.thehawaiiproject.com/book/The-Woman-in-the-Window-A-Novel--by--A.-J.-Finn--318824)
 
 This month's most popular book has been rising on Bookship for awhile now. A.J. Finn's _The Woman in the Window_ is next in the line that starts with _Gone Girl_ and _Girl on the Train_ and ...you get it. Anna Fox lives alone—a recluse in her New York City home, unable to venture outside. She spends her day drinking wine (maybe too much) ... and spying on her neighbors. One day she sees something terrifying ... Or does she?
 
-![](/assets/images/unnamed-1.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/unnamed-1.jpg)
 
 [The Silent Patient](https://www.thehawaiiproject.com/book/The-Silent-Patient--by--Alex-Michaelides--418995)
 
 Thrillers seem to be hot right now...must be because it's so hot outside :). _The Silent Patient_ is another hot thriller. In fact, A.J. Finn (you remember right?) said: "_That rarest of beasts: the perfect thriller..I'm absolutely dazzled_". Alicia Berenson’s life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house with big windows overlooking a park in one of London’s most desirable areas. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word. Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to unravel the mystery of why she shot her husband takes him down a twisting path—a search for the truth that threatens to consume him.
 
-![](/assets/images/unnamed-2.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/unnamed-2.jpg)
 
 [Anna Karenina](https://www.thehawaiiproject.com/book/Anna-Karenina--by--Leo-Tolstoy--36714)
 

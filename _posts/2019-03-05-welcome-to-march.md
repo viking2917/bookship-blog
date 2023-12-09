@@ -21,13 +21,13 @@ This month we are very excited to announce a major new release of Bookship. Star
 
 The most popular books on Bookship in the last month are:
 
-![](/assets/images/51jinl8uSL.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/51jinl8uSL.jpg)
 
 [Tower of Dawn](https://www.amazon.com/Tower-Dawn-Throne-Glass-Book-ebook/dp/B01M8NHXGH/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=codexmap-20&linkId=35c123b37b8caa8f464c95becc854130&language=en_US)
 
 Tower of Dawn, the next installment in the wildly popular Throne of Glass series by Sarah J. Maas, is our second most popular book this month. Chaol Westfall has always defined himself by his unwavering loyalty, his strength, and his position as the Captain of the Guard. But all of that has changed since the glass castle shattered, since his men were slaughtered, since the King of Adarlan spared him from a killing blow, but left his body broken.
 
-![](/assets/images/51HSkTKlauL.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/51HSkTKlauL.jpg)
 
 [Harry Potter and the Sorcerer's Throne](https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/0545582881%3FSubscriptionId%3DAKIAIKMVYJ6MJU6ROZYQ%26tag%3Dcodexmap-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0545582881)
 

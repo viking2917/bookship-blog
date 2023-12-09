@@ -11,7 +11,7 @@ tags:
 coverImage: "2ccf0-1ck0djfq_pzbxbutcvwhv6g.png"
 ---
 
-![](/assets/images/2ccf0-1ck0djfq_pzbxbutcvwhv6g.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2ccf0-1ck0djfq_pzbxbutcvwhv6g.png)
 
 If you follow book news, you haven’t been able to get away from headlines shrieking about how the book industry is dying (again!), and ebook sales are falling, and the world is ending ( [Are we losing faith in e-books](http://goodereader.com/blog/electronic-readers/are-we-losing-faith-in-e-books)? , [Print isn’t Dead, but e-Books may just be](http://news.nationalpost.com/arts/books/print-isnt-dead-but-e-books-just-may-be), [Publisher Revenues Down as Ebook Buying Slows](http://techcrunch.com/2015/03/03/publisher-revenues-down-as-ebook-buying-slows/), [Book Sales hang on as eBook sales wither](http://fortune.com/2015/09/23/e-books-digital-publishing/)).
 

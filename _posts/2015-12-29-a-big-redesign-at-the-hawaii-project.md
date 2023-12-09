@@ -11,7 +11,7 @@ tags:
 coverImage: "fd8e2-1olqr80vuvwrfkhdcikbfja.png"
 ---
 
-![](/assets/images/05870-1hpdm1pz65db-dtogalv8jq.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/05870-1hpdm1pz65db-dtogalv8jq.png)
 
 A new design for The Hawaii Project
 
@@ -25,7 +25,7 @@ I had a few main goals with the redesign:
 - Moving to a more modern visual style.
 - Removing much of the “UI” clutter.
 
-![](/assets/images/c026c-1mg98baaumlhf91qxcd73jw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/c026c-1mg98baaumlhf91qxcd73jw.png)
 
 The Hawaii Project works by scanning almost a thousand high quality web sources of writing about books. Everything from [The New York Times book reviews](http://www.thehawaiiproject.com/source/NYT-Books--16) to [author blogs](http://www.thehawaiiproject.com/source/author_Thomas-W.-Jensen--408) to niche blogs about special topics, like [espionage books](http://www.thehawaiiproject.com/source/Double-O-Section--165), politics or medieval history. It was clear people weren’t getting that, nor were they really aware there were “stories” at all in the system. That is a key differentiator, so it needed to become more obvious.
 
@@ -35,9 +35,9 @@ In moving to a more modern visual style, I wanted (needed!) to get rid of the ma
 
 Here’s the previous design for the Books page and the Book page:
 
-![](/assets/images/ba472-1hhivsjca2-rtrkoyoy77ja.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ba472-1hhivsjca2-rtrkoyoy77ja.png)
 
-![](/assets/images/7aed9-1wdoohbmapcgqb8ibdfdikq.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/7aed9-1wdoohbmapcgqb8ibdfdikq.png)
 
 The new design removes virtually all gradients, gets rid of the heavy greens and brown colors, moves to a more typical grey background and black text, simplifies the number of fonts and font-sizes used in the design. It’s far easier on the eyes and much more readily scanned.
 
@@ -49,6 +49,6 @@ Related Books, and the Author’s other books, are moved to the bottom of the pa
 
 Here’s the final designs as they are in production today:
 
-![](/assets/images/6be45-1hpdm1pz65db-dtogalv8jq.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/6be45-1hpdm1pz65db-dtogalv8jq.png)
 
-![](/assets/images/fd8e2-1olqr80vuvwrfkhdcikbfja.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/fd8e2-1olqr80vuvwrfkhdcikbfja.png)

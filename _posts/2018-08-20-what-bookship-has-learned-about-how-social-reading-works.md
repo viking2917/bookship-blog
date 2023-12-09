@@ -13,7 +13,7 @@ _Last December, [Bookship](https://www.thebookseller.com/futurebook/can-bookshi
 
 _Seven months on, we decided it was high time to catch up with Mark Watkins, founder of The Hawaii Project and creator of the app, to find out how Bookship has developed, to get his outsider's view on the publishing industry, and to share some of the lessons he's learned on the journey from start-up to sustainable business._
 
-![](/assets/images/bookship-3-638.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bookship-3-638.jpg)
 
 It’s hard to believe it’s been eight months since we were at the FutureBook Awards in London, sharing the stage with five other passionate young companies. As a publishing industry neophyte and an American, FutureBook broadened my horizons immeasurably. It provided the opportunity to meet leaders of the publishing industry from the UK and Europe, sharing ideas and gaining a wealth of feedback. The competition format particularly sharpened our business model thinking – more on that in a moment.
 
@@ -25,7 +25,7 @@ Bookship was designed for reading with known social groups. But recently we have
 
 The FutureBook competition provided a valuable opportunity to define and validate our business model. Until the competition we were laser-focused on finding product-market fit, to the exclusion of chasing revenue. But a competition format requires an articulated business strategy. Ours consists of two revenue sources: an institutional product with analytics and group management tools; and a premium subscription product with advanced features for individual readers. We’re delighted to be collaborating with our first institutional customer – a school that will be putting close to 1000 students onto Bookship for a shared reading/studying experience. By leveraging Bookship’s mobile format, they hope to increase authentic reading engagement, with visibility through reader analytics into participation rates and progress.
 
-![](/assets/images/Stories.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Stories.png)
 
 Our individual subscription product has received less attention and success. We’ve introduced a key component as a (currently) free feature: curated background content (right). For younger audiences, we have focused on curating relevant YouTube video content about the book and author, as well as traditional reviews and blog posts from high quality sources. We’ve complemented our existing iOS and Android apps with a Kindle Fire app as well as a [full web version](http://www.bookshipapp.com/), which opens interesting opportunities for long-form commentary and study groups in an educational context. We’ve also integrated Kindle sharing, so readers can share directly from their Kindle app to Bookship.
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "c64b0-10jtuaeo900u4kiytrygspa.jpeg"
 ---
 
-![](/assets/images/c64b0-10jtuaeo900u4kiytrygspa.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/c64b0-10jtuaeo900u4kiytrygspa.jpeg)
 
 This is the third and final post in our continuing series on how and why [The Hawaii Project recommends great books,](http://www.thehawaiiproject.com) and more broadly the key ingredients in a good discovery or recommendation system. (Part I: [Ratings & Reviews are Broken](https://medium.com/@thehawaiiproj/the-ratings-reviews-model-is-broken-there-s-a-better-way-ebcd1b057749); Part II: [the Limits of Social Discovery](https://medium.com/@thehawaiiproj/the-limits-of-social-discovery-8a9dfe6aa692)).
 

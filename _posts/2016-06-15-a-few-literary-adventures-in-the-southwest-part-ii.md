@@ -11,13 +11,13 @@ tags:
 coverImage: "25357-1chx95gw1y-bv9ejpcxtloa.jpeg"
 ---
 
-![](/assets/images/912d3-1q0mmlk3n0yr5eg3ebumkbw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/912d3-1q0mmlk3n0yr5eg3ebumkbw.jpeg)
 
 (part II in our literary exploration of the Southwest. You can find Part I [here](https://medium.com/@thehawaiiproj/80caf2165452))
 
 After Chaco we headed off to Santa Fe. We had a great time at the Palace of the Governors, one of the main tourist attractions. (By the way it has a great bookstore!). There I was surprised to learn that one of the early governors of New Mexico was Lew Wallace, a fairly interesting chap.
 
-![](/assets/images/3c9e4-1i2m4bdzjqubr2svqjukttw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/3c9e4-1i2m4bdzjqubr2svqjukttw.jpeg)
 
 Lew Wallace
 
@@ -29,7 +29,7 @@ If you are intrigued by Ben-Hur and Wallace, you can [read more about the histor
 
 Santa Fe is also home to a fun little bookstore, [Collected Works](http://www.collectedworksbookstore.com/). I picked up a copy of Denis Johnson’s **The Laughing Monsters** there.
 
-![](/assets/images/26059-1_c3thj2ix23fzkiojz_zrw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/26059-1_c3thj2ix23fzkiojz_zrw.jpeg)
 
 Collected Works, Santa Fe, NM
 
@@ -37,7 +37,7 @@ Finally, in case you’ve been hiding under a rock, we’ll let you know that Ge
 
 After a few great days in Santa Fe, we trundled off to a last day in Durango before flying home. We stayed at the wonderful, historic Strater Hotel. It’s right out of a movie set, for an old west hotel. Many of the rooms are named after famous occupants.
 
-![](/assets/images/25357-1chx95gw1y-bv9ejpcxtloa.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/25357-1chx95gw1y-bv9ejpcxtloa.jpeg)
 
 Miraculously, we were given the Louis L’Amour room. He wrote many of his famous westerns in our room sitting at precisely the same table — magic! We stumbled down the street to another fun little used bookstore, I think it was The Book Hutch. The owner actually knew the L’Amours and spoke very highly of them. While I’m not generally a westerns fan, I had to take a book home as a memento!
 

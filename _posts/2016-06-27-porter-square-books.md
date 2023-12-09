@@ -12,7 +12,7 @@ tags:
 coverImage: "db326-1ov3gze2_r6g-kj5grspt_w.jpeg"
 ---
 
-![](/assets/images/e46bd-1zzw1qwxchve_3vv7f4ubtg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/e46bd-1zzw1qwxchve_3vv7f4ubtg.jpeg)
 
 Cafe Zing @ Porter Square Books
 
@@ -22,13 +22,13 @@ Porter Square Books is nestled into a small shopping center in, well, Porter Squ
 
 When you first walk in, on the left you notice Cafe Zing, with a chalkboard menu with all kinds of good stuff on it — from baked goods to all manner of coffee and teas, and sandwiches.
 
-![](/assets/images/8860d-1lvaafva_7pixps0blmchga.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/8860d-1lvaafva_7pixps0blmchga.jpeg)
 
 The obligatory recommendations table is there, but it’s different! Some lovely tasty cover art ([Outrun the Moon](http://www.thehawaiiproject.com/book/Outrun-the-Moon--by--Stacey-Lee--178051)) — but you’ll also note they don’t just recommend new books, they recommend good books — note [The Song of Achilles](http://www.thehawaiiproject.com/book/Song-of-Achilles--by--Madeline-Miller--38865) prominently featured, even though it was released in 2011 (reviewers said for example, “Mary Renault lives again”, which is the highest of praise in my book). It’s not a chain pushing the bestsellers on you.
 
 There’s a great collection of recommendations up front, and as you go further into the store you find a number of interesting displays. The Sci-Fi section is right up against the front glass, not hidden in the back like it’s porn the way it is in most bookstores. Next thing I encounter is the Indie Next bestseller list — not totally unique to an indie bookstore, but still, a compact presentation of a lot of great books.
 
-![](/assets/images/db326-1ov3gze2_r6g-kj5grspt_w.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/db326-1ov3gze2_r6g-kj5grspt_w.jpeg)
 
 Don’t judge by the cover
 

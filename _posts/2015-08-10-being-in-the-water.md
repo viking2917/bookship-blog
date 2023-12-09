@@ -11,7 +11,7 @@ tags:
 coverImage: "82f91-1eyj0wzhxgxrpmaw_1gacdq.jpeg"
 ---
 
-![](/assets/images/82f91-1eyj0wzhxgxrpmaw_1gacdq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/82f91-1eyj0wzhxgxrpmaw_1gacdq.jpeg)
 
 I remember many years ago learning to surf in Hawaii with my daughter. (Well, she learned; me, not so much). We got some instructions on the beach, then, into the water we go. Our instructor pushed us into the waves, and my daughter, a gymnast, popped right up onto the board and was surfing the first time.
 

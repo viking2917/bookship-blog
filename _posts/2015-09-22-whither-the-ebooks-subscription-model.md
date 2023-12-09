@@ -9,7 +9,7 @@ tags:
   - "ebooks"
 ---
 
-![](/assets/images/1*p-DrhcHNtADp1p-K9R1YEw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1*p-DrhcHNtADp1p-K9R1YEw.png)
 
   
 

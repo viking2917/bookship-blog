@@ -11,7 +11,7 @@ tags:
 coverImage: "5d105-1h7xw1tdiathtly7muysfwa.jpeg"
 ---
 
-![](/assets/images/5d105-1h7xw1tdiathtly7muysfwa.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/5d105-1h7xw1tdiathtly7muysfwa.jpeg)
 
 [The Hawaii Project](http://www.thehawaiiproject.com) is a personalized book discovery engine, kind of like a bookstore where every book in the store is picked just for you. When you first sign up for The Hawaii Project, you can pick from our “channels” to identify what kinds of books you are interested in (including traditional genres like “[Historical Fiction](http://www.thehawaiiproject.com/channel/historical-fiction)” or “[Romance](http://www.thehawaiiproject.com/channel/romance)”, and interesting “concept” Channels like “[Noir](http://www.thehawaiiproject.com/channel/noir)” or “[Exotic Places](http://www.thehawaiiproject.com/channel/exotic-places)”. And you can identify authors you love. As you use the system, marking books you’ve Read or Want, we are learning what kinds of books you love, and this improves the quality of our recommendations. But, sometimes this can be time-consuming.
 

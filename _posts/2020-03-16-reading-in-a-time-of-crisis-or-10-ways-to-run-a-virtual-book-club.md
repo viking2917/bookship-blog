@@ -9,7 +9,7 @@ categories:
 coverImage: "mixkit-person-reading-a-book-while-wrapped-in-warm-blankets-with-75-desktop-wallpaper-1024x576-1.png"
 ---
 
-![](/assets/images/mixkit-person-reading-a-book-while-wrapped-in-warm-blankets-with-75-desktop-wallpaper-1024x576.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/mixkit-person-reading-a-book-while-wrapped-in-warm-blankets-with-75-desktop-wallpaper-1024x576.png)
 
 Whether you're panicked or calm, pretty much everyone is impacted by the measures being taken to tackle the Coronavirus (aka Covid-19) outbreak. Ourselves, we're mostly in the calm bucket - there are plenty of people at risk, and stern measures need to be taken, but we will weather this and come out stronger on the other side, especially if we don't panic (as a friend of mine says, "_don't panic - I tried and it didn't help!_").
 

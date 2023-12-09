@@ -11,7 +11,7 @@ tags:
 coverImage: "d46e5-1czsscmy1s8f593bbaryrkg.jpeg"
 ---
 
-![](/assets/images/d46e5-1czsscmy1s8f593bbaryrkg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/d46e5-1czsscmy1s8f593bbaryrkg.jpeg)
 
 Books and music go together like, well, wine & chocolate. Settling down on the couch with a great book, a glass of wine, and some great music has to be one of life’s guiltiest pleasures. Heck there’s even a quiz that, given your favorite wine, will pick some books & music for you! (For the record: according to this quiz, if I’m drinking _Merlot_ at _home_ by _myself_, I’m supposed to listen to _Time Spent_ by Deaf Center, whilst reading _Catcher in the Rye_).
 

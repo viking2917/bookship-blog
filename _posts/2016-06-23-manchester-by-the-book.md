@@ -12,13 +12,13 @@ tags:
 coverImage: "afca2-1dbvddmzqb36rf1ppz-ea.jpeg"
 ---
 
-![](/assets/images/72938-1vn0wlvgwvxa6hcvomspima.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/72938-1vn0wlvgwvxa6hcvomspima.jpeg)
 
 It’s getting to be summer in New England. But it’s not officially summer in New England until you’ve been to Woodman’s of Essex for fried clams. Finding myself with a free Saturday last weekend, off I went. And it’s not a road trip unless you stop somewhere at a bookstore. After clams, I headed over to [Manchester by the Book](http://www.manchesterbythebook.com/), in, well, Manchester by the Sea.
 
 Manchester by the Sea is beautiful, quaint New England harbor town, if you’ve never been. It’s absolutely worth a weekend field trip to look around, get a nice meal, and shop for books.
 
-![](/assets/images/a80be-1fi6bedpaaq9q_vktsdosuw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/a80be-1fi6bedpaaq9q_vktsdosuw.jpeg)
 
 the harbor at Manchester by the Sea
 
@@ -32,7 +32,7 @@ I snapped up a copy of Ian McEwan’s [Sweet Tooth](http://www.thehawaiiproject.
 
 Lastly, I stumble on a very handsome edition of [Omoo](http://www.thehawaiiproject.com/book/Omoo-A-Narrative-of-Adventures-in-the-South-Seas-%28Penguin-Classics%29--by--Herman-Melville--202224) by Herman Melville, with wonderful wood block prints of some scenes. As you can guess, The Hawaii Project is interesting in the South Pacific, and Melville’s been on our list to get to. Slurp. I drop on a very comfortable couch and read for a few minutes, then decide I better leave before I do more damage. Here’s a shot of my haul:
 
-![](/assets/images/afca2-1dbvddmzqb36rf1ppz-ea.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/afca2-1dbvddmzqb36rf1ppz-ea.jpeg)
 
 Mark Stolle, the store owner, murmurs appreciatively at my selections. I think these books are his friends. We chat about the cover art, and the history of Frank Frazetta and Boris Vallejo, and the relation of the Dancer from Atlantis’s connection to Mary Renault’s books, which he knows but hasn’t yet read. In a reversal of roles, I seem to be the one selling books :).
 

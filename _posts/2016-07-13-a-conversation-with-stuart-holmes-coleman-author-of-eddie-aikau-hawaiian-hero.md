@@ -11,7 +11,7 @@ tags:
 coverImage: "d8e0e-1wq5fljjuemypmbq7bkpe8a.jpeg"
 ---
 
-![](/assets/images/d8e0e-1wq5fljjuemypmbq7bkpe8a.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/d8e0e-1wq5fljjuemypmbq7bkpe8a.jpeg)
 
 Eddie Aikau on a wave on the North Shore
 

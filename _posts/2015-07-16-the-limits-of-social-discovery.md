@@ -23,7 +23,7 @@ And yet…..
 
 Let’s have a look at my Spotify page and what my friends are listening to.
 
-![](/assets/images/cb48a-1xbw7flo-8jwppnehvaxaea.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/cb48a-1xbw7flo-8jwppnehvaxaea.jpeg)
 
 Foo Fighters (_not interested_). Radiohead (_know all about it_). Counting Crows (_meh_). Buffalo Springfield (_nope_). Sara Bareilles (_nope_). Epic Score (_no clue who this is, and no context so I’d have to listen_). Knowing what music my friends are listening to satisfies a certain voyeuristic tendency, and showing off what music I am listening to feeds my vanity and helps establish a “personal brand”. But it’s not that helpful for discovery — my friends don’t listen to the kind of music I do! (which is why Spotify leans harder on the personalized Browse feature for discovery).
 
@@ -58,6 +58,6 @@ If we take those streams and layer on top of it a “picker” that grabs the pe
 
 Personally Relevant. Interesting. Surprising. Deliver on all three and you’ll get and keep your audience.
 
-![](/assets/images/55b0f-1kjbrdhhsou5q-wxck71law.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/55b0f-1kjbrdhhsou5q-wxck71law.png)
 
 A personalized stream of Books & Articles from The Hawaii Project

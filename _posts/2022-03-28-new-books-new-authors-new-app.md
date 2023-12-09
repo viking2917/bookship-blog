@@ -11,21 +11,21 @@ Hello and welcome to all the new Bookshipers!
 
 Our Meet the Author program connects you with authors who will meet virtually with your book club. Browse our authors in Bookship by tapping Browse, then Meet the Author. Today we have **new authors** to announce, some great **new books** by authors already in the program, and **a new app in beta test**!
 
-![](/assets/images/nexthing.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/nexthing.jpeg)
 
 People Magazine picked Jessica Strawser's new book _The Next Thing You Know_ as one of April's Best New Books! A musician facing the untimely end of his career. An end-of-life doula with everything, and nothing, to lose. Me Before You meets A Star Is Born in this powerful new novel from the author of A Million Reasons Why.
 
-![](/assets/images/open.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/open.png)
 
 For something delightfully creepy, Tall Poppy Writer Kelly Simmons just released a (free!) serialized fiction podcast story called  
 _Open The Window_. A frightening incident from Lainey Thomas’s childhood collides with a suspicious message sent to her younger sister Kacey. In her mind, it all seems to point toward a series of murders unsolved for decades…
 
-![](/assets/images/ant.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ant.jpeg)
 
 Publisher's Weekly gave Diana Giovinazzo's new book _Antoinette's Sister_ a Starred Review and said "  
 _This sprawling tale of power, intrigue, and ambition is a winner._" Bursting with intrigue, adventure, and romance, Antoinette's Sister brings to life one of history's most formidable European monarchs: the Queen of Naples…
 
-![](/assets/images/victory.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/victory.jpeg)
 
 We're pleased to welcome Bhaswati Ghosh as a new author to our program. Her novel Victory Colony, 1950 is the story of the resilience of refugees from East Pakistan, who found themselves largely unwanted on either side of the border following the partition of India in 1947. "  
 _A compelling story, set against a Calcutta that's vividly depicted in the smallest of details._" --Madhulika Liddle
@@ -36,6 +36,6 @@ We've added many beautiful Standard eBooks **editions you can read for free** 
 
 Last: We are **working on a new app, TBR**, and looking for beta testers. TBR is a simple, elegant, and modern place to track your reading. The books you want to read (your TBR, To Be Read), the books you are reading, and the books you've read. Organize your books into custom lists of your own choosing. Get inspiration by browsing Book News from our 1000+ curated book news sources. TBR identifies the books in each story and easily let you save them, remembering where you found the book. A few screenshots below. **To be a beta tester**, reply back to this email and I'll set you up.
 
-![](/assets/images/TBRLightDark-1024x768.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/TBRLightDark-1024x768.png)
 
 Thanks for reading and staying in touch. If you have any trouble with Bookship, please drop me a note.

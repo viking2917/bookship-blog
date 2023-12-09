@@ -12,7 +12,7 @@ tags:
 coverImage: "a0b7b-1zvsalheetxlnn6jzlqsaeq.gif"
 ---
 
-![](/assets/images/a0b7b-1zvsalheetxlnn6jzlqsaeq-300x169.gif)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/a0b7b-1zvsalheetxlnn6jzlqsaeq-300x169.gif)
 
 So, encouraged by my good friend and author [Thomas Jensen](http://twjensen.blogspot.com/), I’m reading [The Three Musketeers](https://www.thehawaiiproject.com/book/The-Three-Musketeers--by--Alexandre-Dumas--1688). I won’t recap much of the storyline, but: D’Artagnan, the earnest young hero from the Gascon countryside, comes to Paris, meets Athos, Porthos, and Aramis, and has adventures.
 

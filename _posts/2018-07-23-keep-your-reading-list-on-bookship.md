@@ -13,7 +13,7 @@ tags:
 coverImage: "savedbooks-167x300.jpeg"
 ---
 
-![](/assets/images/c7453-1yvcnwvhmqho35bf4a_-ucg-168x300.jpeg)Bookship is a social reading app for sharing your reading experiences with friends, family co-workers or book club.
+![]({{ site.url }}{{ site.baseurl }}/assets/images/c7453-1yvcnwvhmqho35bf4a_-ucg-168x300.jpeg)Bookship is a social reading app for sharing your reading experiences with friends, family co-workers or book club.
 
 Whether it’s reading a great novel with your best friend across the country, a neighborhood book club, or a business book with your co-workers, Bookship is a virtual bookclub, enriching your reading experience and your relationships.
 
@@ -21,4 +21,4 @@ Bookship also provides powerful browsing of books of current interest, powered b
 
 Today we’re pleased to announce our Bookmarking (ha! get it?!) feature. While you’re browsing, save interesting books away to your TBR list to come back to them later. Access all your saved books right from the Browse page.
 
-![](/assets/images/savedbooks-167x300.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/savedbooks-167x300.jpeg)

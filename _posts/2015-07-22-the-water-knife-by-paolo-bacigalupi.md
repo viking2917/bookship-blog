@@ -11,7 +11,7 @@ tags:
 coverImage: "60cb0-1h_1j6uebg3nk82172wwlhq.jpeg"
 ---
 
-![](/assets/images/60cb0-1h_1j6uebg3nk82172wwlhq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/60cb0-1h_1j6uebg3nk82172wwlhq.jpeg)
 
 [The Water Knife](http://www.thehawaiiproject.com/book/The-Water-Knife--by--Paolo-Bacigalupi--46654) is an extremely interesting near-future, post-apocalyptic take on the water problems faced by the American Southwest.
 

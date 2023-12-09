@@ -11,7 +11,7 @@ tags:
 coverImage: "e5a6c-1zh_jyon3zobk5x228tb4cq.jpeg"
 ---
 
-![](/assets/images/e5a6c-1zh_jyon3zobk5x228tb4cq.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/e5a6c-1zh_jyon3zobk5x228tb4cq.jpeg)
 
 Awhile back I randomly found out about [CODEX Hackathon,](http://codexhackathon.com) a “literary hackathon” mashing up books and technology, and I knew I had to get involved. I started by registering to attend, but realized pretty quickly I wanted to do more. I volunteered to helped organize and sponsor, which I’ll write about later. I also hacked, and wanted to share what I came up with, and how I came up with it.
 

@@ -20,11 +20,11 @@ Bookship Premium is $2.99 / month, or your equivalent in your local currency. Su
 
 When you **Start a Reading** (a discussion group about a book), you will be asked to invite your fellow readers. Groups with 10 or more people require a Bookship Premium subscription.
 
-![](/assets/images/5_Content_iPhoneXs_framed-473x1024.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/5_Content_iPhoneXs_framed-473x1024.png)
 
 **Book Briefings** are curated content about a book. We scan over 1000 of the top websites about books to find trusted reviews, author interviews, reading guides, background content, book trailers, and more! All of that is delivered right in the app, so you don't have to go scrambling around the web to learn more about the book you are reading. It's especially helpful for Group Leaders to spark conversations about the book.
 
-![](/assets/images/training1000.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/training1000.jpg)
 
 Premium users also have access to personalized book recommendations via the **Your Picks** capability. You tell us what kinds of books you like and what authors you love, and perform a quick training of the system on your preferences.
 

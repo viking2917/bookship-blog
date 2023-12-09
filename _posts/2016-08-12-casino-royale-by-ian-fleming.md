@@ -12,7 +12,7 @@ tags:
 coverImage: "876b0-1qf8r5jiekknjuk8yd4xi2w.jpeg"
 ---
 
-![](/assets/images/876b0-1qf8r5jiekknjuk8yd4xi2w.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/876b0-1qf8r5jiekknjuk8yd4xi2w.jpeg)
 
 > Just a moment. Three measures of Gordon’s, one of vodka, half a measure of Kina Lillet. Shake it very well until it’s ice-cold, then add a large slice of lemon peel. Got it?  
 >  — James Bond invents the Vesper cocktail.

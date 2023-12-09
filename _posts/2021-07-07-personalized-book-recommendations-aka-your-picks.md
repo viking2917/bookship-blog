@@ -13,25 +13,25 @@ Finding great books to read can be a challenge. And new books by your favorite a
 
 Bookship tracks what over **1000 of the best book websites, reviewers and curators** are writing about. With **Your Picks**, you tell us what kinds of books and authors you like, and every day we scan those sites, looking for books that best match your personal interests and current events (your past readings and saved books are also taken into account!). They're available under Browse / Your Picks, and once a week we'll send you a summary email with your best picks for that week. We'll also send you an email whenever one of your favorite authors releases a new book.
 
-![](/assets/images/Channels1000_framed.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Channels1000_framed.png)
 
 Pick your Channels
 
 Pick as many Channels (e.g. Topics or Genres) you like. We'll look for topical books on those subjects
 
-![](/assets/images/Authors1000_framed.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Authors1000_framed.png)
 
 Pick your authors
 
 Enter your favorite authors or authors you want to track. We'll include books like theirs in your recommendations, and notify you when they publish new books.
 
-![](/assets/images/Training1000_framed.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Training1000_framed.png)
 
 Train the System
 
 Pick Thumbs-up or Thumbs-down on as many books as you can. Thereafter, we'll recommend books similar to the ones you picked. You can also pick the Bookmark icon to save a book for later if you haven't read it, or pick the Heart icon to tell us you \*really\* like that book.
 
-![](/assets/images/Books1000_framed.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Books1000_framed.png)
 
 See Your Picks
 

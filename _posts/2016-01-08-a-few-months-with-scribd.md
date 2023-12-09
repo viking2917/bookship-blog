@@ -12,7 +12,7 @@ tags:
 coverImage: "5beaf-1k4g0zcyqlnw4wlpqh4volw.png"
 ---
 
-![](/assets/images/5beaf-1k4g0zcyqlnw4wlpqh4volw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/5beaf-1k4g0zcyqlnw4wlpqh4volw.png)
 
 While I’m a bit late to the game, I’ve spent the last 3 months exploring the subscription model for ebooks. As you may have heard, the inventor of the concept - Oyster - shut down awhile back (Amazon has Kindle Unlimited now). I’d given up on Oyster previously because they never had the books I wanted to read. I’ve previously [suggested I think the end is coming for the subscription model](https://medium.com/@thehawaiiproj/whither-the-ebooks-subscription-model-3ababe21b456#.hl33tha9x), and offered a few ideas for how to save it.
 

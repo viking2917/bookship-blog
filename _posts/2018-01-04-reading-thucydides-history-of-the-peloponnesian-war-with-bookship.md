@@ -27,7 +27,7 @@ The History is laid out in 8 “books”, or chapters. We set ourselves to read 
 
 I seriously doubt I would have finished had we not been reading in a group — the social pressure to keep going was essential, at least to me, and I found the the updates and alerting from Bookship invaluable in keeping me going when I lost momentum. Much of the book reads something like _<Army X> marched to <Region with strange name> and fought <the tribe with strange name>. They were victorious and set up a trophy_. It can be quite repetitious in places, particularly in the early books, when the names and locations are all mysterious. So some motivation to continue was welcome.
 
-![](/assets/images/aaeb7-1nhgavzqjxodqknuk0wqnxw-300x222.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/aaeb7-1nhgavzqjxodqknuk0wqnxw-300x222.jpeg)
 
 Side note: From Thucydides I learned the origin of the word _trophy_: when a Greek army was victorious, they would stand up a figure with helmet, armor and shield of the defeated army to mark their triumph. The Greek word is **tropaion.**
 

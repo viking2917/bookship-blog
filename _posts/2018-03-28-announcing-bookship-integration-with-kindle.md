@@ -12,7 +12,7 @@ tags:
 coverImage: "384cd-1_9lqnjx7ik2iuh4ebnuanw-300x96-1.jpeg"
 ---
 
-[![](/assets/images/384cd-1_9lqnjx7ik2iuh4ebnuanw-300x96.jpeg)](https://www.bookshipapp.com)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/384cd-1_9lqnjx7ik2iuh4ebnuanw-300x96.jpeg)](https://www.bookshipapp.com)
 
 [Bookship](https://www.bookshipapp.com) is a social reading app for sharing your reading experiences with your friends, family and co-workers. We’re excited to announce that Bookship is now integrated with your Kindle app!\*
 
@@ -20,11 +20,11 @@ coverImage: "384cd-1_9lqnjx7ik2iuh4ebnuanw-300x96-1.jpeg"
 
 [Bookship](https://www.bookshipapp.com) is a purpose-made app for social reading. Reading books together with others is a great way of enriching your reading experience, and sharing quotes or your favorite passages is one of the best parts. We love physical books and we built our utterly unique Virtual Highlighter so you could share quotes right out of a book just by using your phone’s camera. For you digital readers, we’ve now made it possible to share quotes easily from your Kindle app as well. Here’s a screenshot on iOS — and it works on Android too.
 
-![](/assets/images/notes-225x300.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/notes-225x300.jpeg)
 
 To get started make sure you have the latest Bookship app installed, version 4.1.0 or higher. Highlight your quote in the Kindle app (make sure you’ve already started a Reading of the book in Bookship so we can figure out which book you want to add to). Hit the share icon or button — on iOS it looks like this:
 
-![](/assets/images/ff7c4-177iiirkxsshyazigxwvytq.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ff7c4-177iiirkxsshyazigxwvytq.png)
 
 Then hit the Bookship icon, and we will populate a comment in Bookship with your quote. (note: if you have a lot of icons on your share menu, you may have to go to the More page, where you can select Bookship or move it to the top of your Share menu. Android works similarly.
 

@@ -67,7 +67,7 @@ _Speaking of special — The Eddie surfing competition, held in Eddie’s ho
 
 The Aikau family lives in a Chinese graveyard they maintain for free rent. When they were poor that was the only place they could live. We met at the graveyard at 3:30AM to drive up in a caravan to Waimea Bay. It was just an intense experience to pull in with the family, and you know that Clyde, who is **66 years old**! is going to paddle out into these giant 30' waves. You can hear them rumbling in the distance, but it’s still too dark to see them. Even at 4:30 in the morning there’s thousands of people walking down the street. It’s like this ghoulish parade, and to see the first light of dawn on these massive waves is just incredible. The most intense experience is when Clyde, before he paddles out, he stops by and just says _I love you guys and thank you for being here_, everyone’s just like ‘_Dear God just let him make it and don’t get hurt_’, I think everybody on the beach was thinking that. In fact he did get hurt, he dislocated his shoulder, and yet he still went back out in his second heat against guys who were a third of his age!
 
-![](/assets/images/5fff1-10evc_hnrepmwj1_8kglz5g.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/5fff1-10evc_hnrepmwj1_8kglz5g.jpeg)
 
 Clyde Aikau on the wave
 

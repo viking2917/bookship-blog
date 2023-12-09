@@ -21,7 +21,7 @@ _You’re an accomplished author with your own works, as well as the Rock & Pop 
 
 I had written a number of short stories over the years that were set in the world of music; a minority of my short fiction to be sure, but a sizeable number nonetheless. So I was thinking about doing an anthology of my own on the subject of Crime and Music. I realized I’d spoken to a number of writers over the years about their passion for music, and thought it would be interesting to have a variety of voices and perspectives and generations, together in a compilation. So I started asking around and almost everyone was interested. I approached Three Rooms Press and that was it.
 
-![](/assets/images/bf9d6-1y6jlqxkul0rdemy-diuw2q.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bf9d6-1y6jlqxkul0rdemy-diuw2q.png)
 
 _Were these stories written explicitly for this book or were these already-written stories looking for a home?_
 

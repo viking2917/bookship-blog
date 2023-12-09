@@ -26,7 +26,7 @@ _Aloha Martin! The world has been missing a Tiki cocktail book for a long time n
 
 Haha - well, we didn’t want to just write a recipe book. We felt that two more things were really needed- 1) to put exotic cocktails into the larger context of tiki culture, and explain how they are part of a larger pop art movement that involved sculpture, music, art, architecture, and more and 2) to help offer a primer on rum and try to demystify it while offering a new way of approaching it.
 
-![](/assets/images/58803-183litka18f0euyduoah2bw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/58803-183litka18f0euyduoah2bw.jpeg)
 
 _Much of the book is drawn from the Smuggler’s cove menu and experience, but there’s a treasure trove of history in the book. How much is right out of your head? Could you talk about your research process?_
 

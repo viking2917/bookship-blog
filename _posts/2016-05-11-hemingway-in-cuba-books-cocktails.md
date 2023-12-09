@@ -11,7 +11,7 @@ tags:
 coverImage: "01cc7-1dzrhcimyy5cyjjcttgz_sg.jpeg"
 ---
 
-![](/assets/images/01cc7-1dzrhcimyy5cyjjcttgz_sg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/01cc7-1dzrhcimyy5cyjjcttgz_sg.jpeg)
 
 One more Hemingway post to follow the release of [Papa Hemingway in Cub](https://g.co/kgs/8kNyF)a, a movie about Hemingway’s time in Cuba. (our [first post here](https://medium.com/@thehawaiiproj/hemingway-in-cuba-1dcb3dad18f6#.yqgd4q5rf)).
 

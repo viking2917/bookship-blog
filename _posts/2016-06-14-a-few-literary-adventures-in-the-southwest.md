@@ -11,7 +11,7 @@ tags:
 coverImage: "7f8f0-1wgz6gl7oxoj9queriz37mg.jpeg"
 ---
 
-![](/assets/images/7f8f0-1wgz6gl7oxoj9queriz37mg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/7f8f0-1wgz6gl7oxoj9queriz37mg.jpeg)
 
 I recently had the pleasure of traveling in the southwest. I wanted to share some of the books my journey touched on.
 

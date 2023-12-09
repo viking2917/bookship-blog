@@ -11,7 +11,7 @@ tags:
 coverImage: "77f88-12e_gst0mnygczo6jfga6mg.jpeg"
 ---
 
-![](/assets/images/77f88-12e_gst0mnygczo6jfga6mg.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/77f88-12e_gst0mnygczo6jfga6mg.jpeg)
 
 There’s nothing better than relaxing on the beach with a great book. Unless…what if you could Do Good at the same time as you were loving that book on the beach?
 

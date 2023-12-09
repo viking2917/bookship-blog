@@ -7,7 +7,7 @@ categories:
 coverImage: "Porch.jpg"
 ---
 
-![](/assets/images/Porch.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Porch.jpg)
 
 (_This article by Lorena Romo originally appeared on [Porch.com.](https://porch.com/advice/perfect-reading-nook-tips-book-lovers) Porch was kind enough to mention Bookship_).
 

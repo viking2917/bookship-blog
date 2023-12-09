@@ -11,7 +11,7 @@ tags:
 coverImage: "1f718-1utfpycxt3j-9c9x80aoyda.jpeg"
 ---
 
-![](/assets/images/1f718-1utfpycxt3j-9c9x80aoyda.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1f718-1utfpycxt3j-9c9x80aoyda.jpeg)
 
 As someone who lived in Utah for many years, I was interested to read Ryan Ireland’s post-apocalyptic sounding Ghosts of the Desert. It’s set (mostly) in the western Utah desert and ghost towns. It was an interesting follow up to another Utah-based novel I recently read, _The Never Open Desert Diner_, by James Anderson, which is set more to the east in Utah, but also very  
 remote.

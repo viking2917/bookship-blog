@@ -13,7 +13,7 @@ Here at Bookship, we love book bloggers. They spend so much time and energy writ
 
 Today we welcome Bookaholic Belle. You can find her at her website, [https://bookaholicbeller.com/](https://bookaholicbeller.com/), or on [Instagram here](https://www.instagram.com/bookaholicbelle/). She is also included in our directory of book sites on our sister projects The Hawaii Project and the TBR app, where you can find her in the News section! Read on where she introduces herself and her reading!
 
-![](/assets/images/BookaholicBelleExport.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/BookaholicBelleExport.jpg)
 
 _Hi! I’m a [Bookaholic Belle](https://bookaholicbeller.com/). I’m a bookstagrammer and book blogger._ 
 

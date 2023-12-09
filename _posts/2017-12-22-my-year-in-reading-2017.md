@@ -18,13 +18,13 @@ This year I launched a social reading app called [Bookship](https://www.bookship
 
 Here’s what stands out to me.
 
-![](/assets/images/51olpAOAAlL.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/51olpAOAAlL.jpg)
 
 **Ancient Greece & Rome** is a constant area of interest for me. The big effort this year was Thucydides **History of the Peloponnesian War**, in the Landmark edition (please don’t read any other edition! this one is so good). My friends and I budgeted 8 months, one per book (chapter), and we ended up finishing in 7, ahead of schedule. I’ll report separately my thoughts on the book and the reading, but one values things one worked hard for and that was hard work indeed. In tandem with that I read one of my all time favorites, **Tides of War** by Steven Pressfield, as well as parts of **Goat Song** by Frank Yerby and **The Peloponnesian War** by Donald Kagan. I read Marcus Aurelius’ **Meditations**, via a small app I built that delivered a daily dose from the book every morning, which had an amazingly positive impact on my mental state. Along the way I read Conn Iggulden’s **Emperor**, a Julius Caesar novel, and was an early reviewer for **Bright Air Black**, David Vann’s novel recounting the myth of Medea.
 
 In light of **trying to read “better”** this year, I read a number of books that were either edifying or books I wouldn’t normally read, towards “self improvement” or inspiration if you will. In that category I’d again include the Marcus Aurelius **Meditations**, which really gave me a center during a tumultuous year in which my mother died and the world at large became “cacophonous”. Reading **Evicted** with my daughter gave me a lot of insight into poverty and homelessness in America, due in equal parts to an eviction system that works against the homeless and poor, and to their own bad decisions. It’s an often heart-wrenching book. Based purely on the metric of the number of highlights per page, **Wind, Sand and Stars**, the memoirs of Antoine de Saint-Exupery, might be one of the best books I’ve ever read, made doubly enjoyable by the fact that I read it together with a dear friend I don’t see often enough. **Burning the Days**, the memoirs of the writer James Salter, was utterly fascinating, and gave me another view into a life I’ll never live ([my review here](https://medium.com/the-hawaii-project/burning-the-days-by-james-salter-45263456d1ec)).
 
-![](/assets/images/407a1-1i1teocxpia4tj-f7ixhzzw-300x200.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/407a1-1i1teocxpia4tj-f7ixhzzw-300x200.jpeg)
 
 In what I might call the “Literary Entertainment” genre, I read **The Girl from Everywhere** by Heidi Heilig, a really fun time-travelling map-drawing Hawaiian-history-teaching adventure story. I read L.S. Hilton’s **Maestra**, to see what all the fuss was about. It is, as advertised, equal parts Fifty Shades of Gray, an Art & Fashion textbook, and a modern day thriller. The textbook definition of a good beach book. Lastly I got to book two of Peter May’s stunning mystery Lewis trilogy, **The Lewis Man**. Great great book.
 
@@ -34,7 +34,7 @@ I had a few disappointments in reading. I eagerly looked forward to being an ear
 
 In the guilty pleasures department, I did squeeze in a few —three of Lee Child’s Jack Reacher novels (**Night School**, **The Enemy** and **Bad Luck and Trouble**), compared to last year’s seven, so that’s one commitment I kept for myself. **Palace of Treason** was the second in Jason Matthews spy thriller series, it was ok but not amazing.
 
-![](/assets/images/51DPJ2dR1TL.jpg) 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/51DPJ2dR1TL.jpg) 
 
 I’ve also developed a strong interest in cocktails (imagine that), especially of the Tiki variety, and read (no I really read them cover to cover) four cocktail books: the **Smuggler’s Cove** tiki cocktail/history book by Martin Cate, **Beachbum Berry’s Potions of the Caribbean** by Jeff Berry, the old-school classic **The Savoy Cocktail Book** by Harry Craddock and the new-school classic **Alchemy in a Glass** by Greg Seider.
 

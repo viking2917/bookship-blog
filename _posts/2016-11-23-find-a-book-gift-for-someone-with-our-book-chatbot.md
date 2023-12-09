@@ -12,7 +12,7 @@ tags:
 coverImage: "9bb9a-1i6d-k349antkxwaehrpchw.png"
 ---
 
-![](/assets/images/54267-1qrmgnk2x-pofkmq0tac1bq.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/54267-1qrmgnk2x-pofkmq0tac1bq.png)
 
 In case you have been hiding under a rock and don’t know what a chatbot is, it’s a service where you communicate via written or spoken words and sentences, rather than clicking menu items in a browser.
 
@@ -22,6 +22,6 @@ You can find great gift ideas for the holidays, or for yourself. There’s a few
 
 A sample interaction might look something like this:
 
-![](/assets/images/9bb9a-1i6d-k349antkxwaehrpchw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/9bb9a-1i6d-k349antkxwaehrpchw.png)
 
 It’s early days for our bot, but we hope you can give it a go. It’s powered by The Hawaii Project’s recommendation engine, which knows about hundreds of thousands of great books. Every conversation you have with it helps us make it better.

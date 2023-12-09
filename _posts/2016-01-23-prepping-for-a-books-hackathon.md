@@ -11,7 +11,7 @@ tags:
 coverImage: "e34e6-1hd5th95k3txlw3oknzem9w.jpeg"
 ---
 
-![](/assets/images/e34e6-1hd5th95k3txlw3oknzem9w.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/e34e6-1hd5th95k3txlw3oknzem9w.jpeg)
 
 So a few weekends ago I helped organize a really cool “Literary Hackathon” called [CODEX](http://www.codexhackathon.com), held at the MIT Media Lab and created by [Jennifer 8. Lee](https://medium.com/u/ae922250adb1) of Plympton. I [wrote](https://medium.com/@thehawaiiproj/anatomy-of-a-hack-books-music-codex-7c336e0ba5b5#.xvw9oiu3x) previously about the hack I made, [Book Playlist,](http://www.bookplaylist.com) which lets people collaboratively build playlists for their favorite books (which btw became a featured Hunt on Product Hunt! Yay!).
 

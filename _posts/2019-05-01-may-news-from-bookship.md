@@ -15,9 +15,9 @@ I’ve recently gotten involved in the Indigenous Innovation community here in H
 
 * * *
 
-**This month's tip**: Saving Books & your TBR. Bookship provides all kinds of cool ways to Browse Books: popular books, great books for book clubs, various genres, even what others are reading on Bookship. If you want to save something for later (your To Be Read list), just tap the bookmark icon (![](/assets/images/d78cd73b-f407-4792-b658-510aa22fcc6c.jpg){:class="bookship-small-icon"}) on the top right of the page (we also moved the Background Reading button top right). It will turn green - to "unsave" it, just tap it again. Get back to your list using the Browse tab; pick the bookmark icon on the top right (or the "Saved Books" link in the Topical & Trendy section). Lastly we made it easier to start reading a book if we have the eBook - just click "Read Now" if the button is there.
+**This month's tip**: Saving Books & your TBR. Bookship provides all kinds of cool ways to Browse Books: popular books, great books for book clubs, various genres, even what others are reading on Bookship. If you want to save something for later (your To Be Read list), just tap the bookmark icon (![]({{ site.url }}{{ site.baseurl }}/assets/images/d78cd73b-f407-4792-b658-510aa22fcc6c.jpg){:class="bookship-small-icon"}) on the top right of the page (we also moved the Background Reading button top right). It will turn green - to "unsave" it, just tap it again. Get back to your list using the Browse tab; pick the bookmark icon on the top right (or the "Saved Books" link in the Topical & Trendy section). Lastly we made it easier to start reading a book if we have the eBook - just click "Read Now" if the button is there.
 
-![](/assets/images/bf8c13f3-9484-4d65-94dc-00e5c8b37bb6.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bf8c13f3-9484-4d65-94dc-00e5c8b37bb6.png)
 
 The Book page in Bookship
 
@@ -25,7 +25,7 @@ The Book page in Bookship
 
 The most popular books on Bookship in the last month are:
 
-![](/assets/images/1.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1.jpg)
 
 [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover-ebook/dp/B072BLVM83?SubscriptionId=AKIAIKMVYJ6MJU6ROZYQ&tag=codexmap-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B072BLVM83)
 
@@ -33,7 +33,7 @@ I've heard about this book from so many people. Tara Westover was born to surviv
 
 * * *
 
-![](/assets/images/2.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2.jpg)
 
 [Frankenstein](https://www.amazon.com/Frankenstein-Mary-Shelley-ebook/dp/B00FDS85EC?SubscriptionId=AKIAIKMVYJ6MJU6ROZYQ&tag=codexmap-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00FDS85EC)
 
@@ -41,7 +41,7 @@ I'm guessing you know Frankenstein by reputation, even if you've never read it. 
 
 * * *
 
-![](/assets/images/3.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/3.jpg)
 
 [Daisy Jones & The Six](https://www.amazon.com/Daisy-Jones-Taylor-Jenkins-Reid/dp/1524798622?SubscriptionId=AKIAIKMVYJ6MJU6ROZYQ&tag=codexmap-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1524798622)
 

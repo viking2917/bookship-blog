@@ -12,7 +12,7 @@ tags:
 coverImage: "51KQvt0c43L.jpg"
 ---
 
-![](/assets/images/51KQvt0c43L.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/51KQvt0c43L.jpg)
 
 Although I’d been aware of Linda Nagata for a long time, I hadn’t read any of her work until the recent Red Trilogy. [The Red Trilogy](https://www.thehawaiiproject.com/book/The-Red-First-Light-%28The-Red-Trilogy%29--by--Linda-Nagata--37221) is simultaneously a thoughtful exploration of the impact of technology advances on soldiers and warfare as well as a rollicking near-future sci-fi adventure. _The Last Good Man_ continues the exploration of “future war”, elevating the thrill ride aspect and downplaying the philosophical exploration. If you’re interested in a near-future Sci Fi book exploring what happens when machines fight our wars for us, _The Last Good Man_ is for you.
 

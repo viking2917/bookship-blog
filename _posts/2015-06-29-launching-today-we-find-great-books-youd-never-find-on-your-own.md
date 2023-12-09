@@ -12,7 +12,7 @@ tags:
 coverImage: "c2b74-1bxq7jhnqeoibzogs4-hepw.jpeg"
 ---
 
-![](/assets/images/c2b74-1bxq7jhnqeoibzogs4-hepw.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/c2b74-1bxq7jhnqeoibzogs4-hepw.jpeg)
 
 After nearly a year of development, it’s time to raise the curtain on [The Hawaii Project](http://www.thehawaiiproject.com). Come on in — the water’s fine!
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "1RqE-0mUvdmMTcM6UK5hSRA-202x300-2.jpeg"
 ---
 
-![](/assets/images/1RqE-0mUvdmMTcM6UK5hSRA-202x300.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/1RqE-0mUvdmMTcM6UK5hSRA-202x300.jpeg)
 
 As I’ve taken to doing the last [few](https://medium.com/@thehawaiiproj/my-year-in-reading-2017-fceee46d0f2c) [years](https://medium.com/the-hawaii-project/my-year-in-reading-2016-2c6f0312311), at the Christmas season I like to look back on my reading for the year to see what stands out, and to think about about what I want to read in the coming year.
 

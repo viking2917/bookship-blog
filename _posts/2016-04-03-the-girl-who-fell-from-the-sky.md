@@ -11,7 +11,7 @@ tags:
 coverImage: "3fc88-1yhbvc5drbd4uyq36atfb-g.jpeg"
 ---
 
-![](/assets/images/3fc88-1yhbvc5drbd4uyq36atfb-g.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/3fc88-1yhbvc5drbd4uyq36atfb-g.jpeg)
 
 I’ve read some of all the espionage masters — Le Carré, Greene, Littell — but don’t remember ever reading a book with a female spy as the lead. When I encountered The Girl Who Fell from the Sky, with a cover blurb from Alan Massie that said “As good as le Carré”, I had to try it.
 

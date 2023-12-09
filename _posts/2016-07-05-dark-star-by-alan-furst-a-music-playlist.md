@@ -11,7 +11,7 @@ tags:
 coverImage: "2a999-18eshtpljrcng172kknvsow.jpeg"
 ---
 
-![](/assets/images/2a999-18eshtpljrcng172kknvsow.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2a999-18eshtpljrcng172kknvsow.jpeg)
 
 Here at [The Hawaii Project](http://www.thehawaiiproject.com), we love music almost as much as we love books. The experience of reading a great book, combined with appropriate music, can be transporting.
 

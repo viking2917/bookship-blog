@@ -22,6 +22,6 @@ But no longer. Introducing The Hawaii Project’s Personalized Book Gift Finder.
 
 Here’s a quick screenshot. You can choose from a rotating carousel of interesting “channels”, or just enter in something your giftee is interested in, like “baseball”, “jazz”, or “quilting”. See a great book, tap out to Amazon, buy, send, done.
 
-![](/assets/images/4cea4-1epimf7jlwenbawnx_mfmoa.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/4cea4-1epimf7jlwenbawnx_mfmoa.png)
 
 You’re welcome.

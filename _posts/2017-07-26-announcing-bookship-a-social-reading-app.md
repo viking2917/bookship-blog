@@ -13,7 +13,7 @@ tags:
 coverImage: "5ece7-15r5xxb-9z7xfvzq1ztgrwg.png"
 ---
 
-![](/assets/images/5ece7-15r5xxb-9z7xfvzq1ztgrwg-300x146.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/5ece7-15r5xxb-9z7xfvzq1ztgrwg-300x146.png)
 
 Recently I had the chance to jointly read [Dune](http://email.mg.thehawaiiproject.com/c/eJxtjssKwyAUBb8m2SnXq9F04cISQn9DrUlsnhiL9O-b7gsHZjEwnKcWYnCujhqBKVDYsFYo4JQJ4Jzyu-kM3CQogy1gUwlYR5qnMNliYzzS_go-U7-v9aTBKwDH1IBWcfRSMCuw8VK2A1NtwHrRU87HWXFTYX-tlPK3dSm37_OF7r0FQtyHkD7ZbSaPkFxImRB2w0bWSa82zbTYPMftZNe7cbVx-TW-WPNB6g) with my son Erik, [Evicted](http://email.mg.thehawaiiproject.com/c/eJxtj81qBCEQhJ9m5qa0f6s5eDDZ5BbIK_i7Y2YdF0dW8vYx90A1XfBR3VTQnCfn1qwpEAmSCqK4BIYJB8YwezVXAy8XkIYqoGLhUG64b3Gzw-b8aPU7-o59LeumwYLzLFHPnGIhKeooF0r5FLwQ4SLXu956f5wLMwv9mBpj_HtrIlfrPtf7M_seA_qqz9j6D7LH9K2m3FE-0MwiU2LL3h7oLU-O3JxP2ycZ6BrPUmcAEaUYyLXpYtuOh-17Pk4yu9yKzfe_j7_QrVPh) with my daughter Kristen, and (gulp) [Thucydides](http://email.mg.thehawaiiproject.com/c/eJxtjksKwyAARE-T7BT_JgsXltJVl7mARlNtviQWye1rloXCwDDM8BinGBusraMiCEskCccNk4hCzBClkN70XaNWIKlJgwivGJpfMAUfTDYxbvv69n2C_TrXQZHeD1ZSLp3xTlDsBjtQ23IpGDGsEfWkQkrbUVFdkUdRzvkvq1R2XcdiXfDgaRY3m30EXfj0p4vOHwDYE_xk3rYc17u6hjCbNMblwOXtazZxuphfeltJTg) with a dear friend in Utah and one of my nephews. I reconnected with people I care about in a really meaningful way. I read books I wouldn’t have otherwise read and got more out of the books I would have read anyway. It was like our own private book club.
 

@@ -29,19 +29,19 @@ Bonus Tip: Bookship has a help page. Just go to the Account tab, top right, and 
 
 The most popular books on Bookship in the last month are:
 
-![](/assets/images/41qjF8L5xeL.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/41qjF8L5xeL.jpg)
 
 [Becoming](https://www.thehawaiiproject.com/book/Becoming--by--Michelle-Obama--393320)
 
 The former First Lady’s memoirs were a big hit this month. In her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address.
 
-![](/assets/images/AmericanMarriage.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/AmericanMarriage.jpg)
 
 [An American Marriage](https://www.thehawaiiproject.com/book/An-American-Marriage-A-Novel--by--Tayari-Jones--306922)
 
 An American Marriage seems to be on everyone’s list, including Oprah’s Book Club, the National Book Award, you name it. It tells the story of Celestial and Roy and their marriage, after Roy is convicted and imprisoned for a crime he did not commit. The New York Times called it “Haunting…Beautifully written”.
 
-![](/assets/images/Children.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Children.jpg)
 
 [Children of Blood and Bone](https://www.thehawaiiproject.com/book/Children-of-Blood-and-Bone--by--Tomi-Adeyemi--333950)
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "84eee-18hrr8qyynufmzbppnvayfw.png"
 ---
 
-![](/assets/images/84eee-18hrr8qyynufmzbppnvayfw.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/84eee-18hrr8qyynufmzbppnvayfw.png)
 
 From restaurants (Yelp) to hotels (TripAdvisor) to books (Goodreads) to household goods (Amazon), the “ratings and reviews” model is everywhere. So much so that The Onion wrote a satiric article about a woman who dared to eat at a restaurant without reading the Yelp reviews.
 
@@ -49,6 +49,6 @@ Systems that perform this “Personalized Curation” for you will become the no
 
 This is beginning to happen. You can see the beginnings of it in music with Apple Beats and Shuffler.FM. Flipboard has been nosing around this for News for some time. And at [The Hawaii Project](http://www.thehawaiiproject.com), we’re doing it for books. If you’re looking for great books read, give us a whirl!
 
-![](/assets/images/aac94-1qow-ggo5gykocycn_gfnca.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/aac94-1qow-ggo5gykocycn_gfnca.jpeg)
 
 The Hawaii Project
