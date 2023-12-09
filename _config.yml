@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Bookship blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Bookship is a social reading app that lets you share your reading experiences. 
+  Whether it's reading a great novel with your best friend across the country, a 
+  business book with your co-workers, or participating in a 
+  neighborhood book club, Bookship enriches your reading 
+  experience and your relationships.
+twitter_username: thehawaiiproj
+#github_username: username
+instagram_username: thehawaiiproject
 minimal_mistakes_skin: default
 search: true
 
@@ -28,10 +31,12 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+#permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+logo: "/assets/images/logo.png"
 
 include:
   - _pages
@@ -58,34 +63,43 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Bookship"
+  avatar : "/assets/images/logo.png"
+  bio    : "Bookship is a social reading app for sharing your reading experiences with friends."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://www.bookshipapp.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/thehawaiiproject"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thehawaiiproj"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+    - label: "Contact"
+      icon: "fas fa-fw fa-address-card"
+      url: "/contact"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/thehawaiiproj"
+# - label: "GitHub"
+#   icon: "fab fa-fw fa-github"
+#   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/thehawaiiproject"
+    - label: "Categories"
+      icon: "fas fa-fw fa-list"
+      url: "/categories"
+    - label: "Tags"
+      icon: "fas fa-fw fa-tags"
+      url: "/tags"
 
 defaults:
   # _posts

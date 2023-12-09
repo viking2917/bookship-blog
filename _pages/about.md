@@ -1,8 +1,20 @@
 ---
 permalink: /about/
-title: "About"
+title: "About us"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+[Bookship](https://www.bookshipapp.com) is a social reading app that lets you share your reading experiences. Whether it's reading a great novel with your best friend across the country, a business book with your co-workers, or participating in a neighborhood book club, Bookship enriches your reading experience and your relationships.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+_Books Change Lives_. Books have the power to transform lives. Our mission is to get more people reading. And reading is better with friends - it will enrich your relationship with them and your experience of the book. The act of reading together will help you read more books. We also believe it's too hard to find great books, so we provide easy to use tools that help you find interesting, personally relevant books based on what the web's leading tastemakers are writing about.
+
+We put our money where our mouth is. We donate 10% of our revenue - not our profits - to three great literacy non-profits. 10% right off the top.
+
+Book<ins>*ship*</ins>. Better friend<ins>*ship*</ins>. Better relation<ins>*ships*</ins>. Through *books*.
+
+With Bookship you can invite people to read along with you - via print book, e-book or audiobook - and then post and react to comments, thoughts, photos/videos, quotes, links and questions through a chat-style interface.
+
+https://www.youtube.com/watch?v=znjMWmbjtgg
+
+Read more here: 
+
+[https://www.bookshipapp.com/#/about](https://www.bookshipapp.com/#/about)

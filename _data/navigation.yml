@@ -1,9 +1,20 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Get Bookship"
+    url: https://www.bookshipapp.com/
+  - title: "Bookship News"
+    url: /categories/#bookship-news
+  - title: "Book Clubs"
+    url: /categories/#book-clubs
+  - title: "Books"
+    url: /categories/#books
+  - title: "For Authors"
+    url: /bookship-for-authors/
+  - title: "Bookship Premium"
+    url: /bookship-premium/
   - title: "About"
-    url: /about/
+    url: /about
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  

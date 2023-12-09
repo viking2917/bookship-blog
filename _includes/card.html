@@ -1,0 +1,21 @@
+{% if include.image %}
+<div class="embed dont-break-out">
+  <a class="embed-link" href="{{include.link}}">
+    <div class="embed-card">
+      <div class="card-cover">
+        <img class="image-covers" src="{{include.image}}" />
+      </div>
+      <div class="card-content">
+        <h6 class="card-title">{{include.title}}</h6>
+        <p class="card-description">{{include.description}}</p>
+        <p class="card-link">{{include.link}}</p>
+      </div>
+    </div>
+  </a>
+</div>
+{% else %}
+ <a href="{{include.link}}">{{include.link}}</a>
+{% endif %}
+
+
+

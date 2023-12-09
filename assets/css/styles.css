@@ -1,0 +1,315 @@
+.bookship-small-icon {
+  width: 20px;
+  height: 20px;
+  display: inline !important;
+}
+
+.masthead__menu-item {
+  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  font-size: 0.66rem;
+  font-weight: 900;
+  /* font-family: serif; */
+  /* font-family: Georgia; */
+}
+
+.greedy-nav a {
+  display: block;
+  margin: 0 0.5rem;
+}
+
+.page__taxonomy-item {
+  background: #00afff;
+  color: white !important;
+}
+
+p:has(> img:only-child) {
+  max-height: 75vh;
+  display: flex;
+  justify-content: center;
+}
+
+p img {
+  width: 100%;
+  /* display: inline-flex;
+  max-height: 75vh; */
+  object-fit: contain;
+  border-radius: 8px;
+  max-height: 75vh;
+  width: auto;
+  border: 1px solid #ccc;
+}
+ /*
+img, .img-keep-in-check {
+  max-height: 75vh;
+  object-fit: cover; // contain;
+  border-radius: 8px; */
+
+  /* border: 1px solid #00afff;
+  border-radius: 10px;
+  display: block;
+  outline: none;
+  text-decoration: none;
+  height: auto;
+  width: 100%; 
+}
+*/
+.bookship-cover-image {
+  border: 1px solid #00afff;
+  border-radius: 10px;
+  display: block;
+  outline: none;
+  text-decoration: none;
+  height: auto;
+  width: 100%;
+}
+
+/* embedded cards (thp links, etc) */
+
+.embed {
+  margin: 0 0 1.3em;
+}
+
+/* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+.dont-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
+
+.embed-card {
+  display: flex;
+  height: calc(1.55 * 11rem);
+  min-height: calc(1.55 * 11rem);
+  background: whitesmoke;
+  border-radius: 8px;
+  /* 1rem; */
+  border: 1px solid rgba(0, 175, 255, 0.2);
+  border: 1px solid #ccc;
+}
+
+.embed-link,
+.embed-link:visited,
+.embed-link:hover .embed-link:not(.btn):hover {
+  text-decoration: none !important;
+  color: #3d4144;
+}
+
+.card-cover {
+  width: 11rem;
+  /* min-height: calc(1.55 * 11rem);
+  height: calc(1.55 * 11rem); */
+  background-size: cover;
+}
+
+.card-cover img {
+  border-radius: 10px 0px 0px 10px;
+}
+
+.card-content {
+  width: 50%;
+  flex-grow: 1;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h6 {
+  margin-top: 0;
+}
+
+.card-description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 11;
+  -webkit-box-orient: vertical;
+  font-size: 14px !important;
+}
+
+.card-link {
+  font-size: 14px !important;
+  line-height: 1;
+}
+
+/* migrate from old blog */
+.image-covers {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+ul,
+ol {
+  margin: 0 0 1.5em 0em;
+}
+
+blockquote {
+  font-size: 12px !important;
+  font-size: 0.75rem !important;
+  line-height: 1.2;
+  font-style: italic !important;
+  margin-left: 10px !important;
+  padding-left: 10px !important;
+  border-left: 2px solid rgba(0, 175, 255, 0.8) !important;
+}
+
+cite {
+  font-size: 10px !important;
+  padding-left: 10em !important;
+}
+
+cite:before {
+  content: "\2014\00a0\00a0" !important;
+}
+
+.entry-title {
+  font-family: 'Quando' !important;
+}
+
+.entry-content {
+  /*    font-family: 'Amethysta'; */
+  font-family: 'Literata';
+}
+
+#outlook a {
+  padding: 0;
+}
+
+.editor-styles-wrapper .has-large-font-size,
+.has-large-font-size {
+  font-size: 24px;
+  line-height: 1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* for the book cards on some of the posts that include author headers */
+
+table {
+  margin-bottom: 0;
+}
+
+table+table {
+  margin-top: 0;
+}
+
+table,
+td {
+  border-collapse: collapse;
+  /* mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt; */
+  border-bottom: none;
+}
+
+img {
+  border: 0;
+  height: auto;
+  line-height: 100%;
+  outline: none;
+  text-decoration: none;
+  -ms-interpolation-mode: bicubic;
+}
+
+p {
+  display: block;
+  margin: 13px 0;
+}
+
+
+@media only screen and (min-width:480px) {
+  .mj-column-per-100 {
+    width: 100% !important;
+    max-width: 100%;
+  }
+
+  .mj-column-per-20 {
+    width: 20% !important;
+    max-width: 20%;
+  }
+
+  .mj-column-per-25 {
+    width: 25% !important;
+    max-width: 25%;
+  }
+
+  .mj-column-per-80 {
+    width: 80% !important;
+    max-width: 80%;
+  }
+
+  .mj-column-per-30 {
+    width: 30% !important;
+    max-width: 30%;
+  }
+
+  .mj-column-per-70 {
+    width: 70% !important;
+    max-width: 70%;
+  }
+
+  .mj-column-per-75 {
+    width: 75% !important;
+    max-width: 75%;
+  }
+}
+
+@media only screen and (max-width:480px) {
+  table.mj-full-width-mobile {
+    width: 100% !important;
+  }
+
+  td.mj-full-width-mobile {
+    width: auto !important;
+  }
+}
+
+.books table td {
+  padding: 0px;
+}
+
+.books table {
+  margin: unset;
+  line-height: normal;
+}
+
+.books hr {
+  background: transparent;
+}
+
+#primary .post .entry-content .books table td,
+#primary .page .entry-content .books table td {
+  padding: 0px;
+}
+
+#primary .post .entry-content .books table td,
+#primary .page .entry-content .books table td {
+  padding: 0px;
+}
+
+#primary .post .entry-content .books table tbody tr:nth-child(2n),
+#primary .page .entry-content table tbody tr:nth-child(2n) {
+  background: unset;
+}
