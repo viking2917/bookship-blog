@@ -79,9 +79,9 @@ author:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
-    - label: "Contact"
-      icon: "fas fa-fw fa-address-card"
-      url: "/contact"
+#    - label: "Contact"
+#   icon: "fas fa-fw fa-address-card"
+#   url: "/contact"
 
 footer:
   links:
@@ -94,12 +94,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/thehawaiiproject"
-    - label: "Categories"
-      icon: "fas fa-fw fa-list"
-      url: "/categories/"
-    - label: "Tags"
-      icon: "fas fa-fw fa-tags"
-      url: "/tags"
+#    - label: "Categories"
+#      icon: "fas fa-fw fa-list"
+#      url: "/bookship-blog/categories/"
+#    - label: "Tags"
+#      icon: "fas fa-fw fa-tags"
+#      url: "/tags"
 
 defaults:
   # _posts
